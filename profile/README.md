@@ -19,5 +19,3 @@ This repository contains a complete, production-ready solution for deploying a s
 This version is perfect for developers who are comfortable with Terraform and want a solid, functional base to build upon.
 
 ➡️ [**View the Repository**](https://github.com/BigPictureDevs/n8n-gcp-starter-kit "null")
-
-*(As you create more projects, you can list them here.)*
